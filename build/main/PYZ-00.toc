@@ -1,0 +1,1757 @@
+('C:\\Users\\Juan '
+ 'Pablo\\Documents\\GitHub\\REGEX-BOT-v1\\build\\main\\PYZ-00.pyz',
+ [('ssl',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\ssl.py',
+   'PYMODULE'),
+  ('calendar',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\calendar.py',
+   'PYMODULE'),
+  ('argparse',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\argparse.py',
+   'PYMODULE'),
+  ('textwrap',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\textwrap.py',
+   'PYMODULE'),
+  ('copy',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\copy.py',
+   'PYMODULE'),
+  ('gettext',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\gettext.py',
+   'PYMODULE'),
+  ('struct',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\struct.py',
+   'PYMODULE'),
+  ('shutil',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\shutil.py',
+   'PYMODULE'),
+  ('zipfile',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\zipfile.py',
+   'PYMODULE'),
+  ('py_compile',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\py_compile.py',
+   'PYMODULE'),
+  ('ntpath',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\ntpath.py',
+   'PYMODULE'),
+  ('string',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\string.py',
+   'PYMODULE'),
+  ('genericpath',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\genericpath.py',
+   'PYMODULE'),
+  ('importlib.machinery',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\importlib\\machinery.py',
+   'PYMODULE'),
+  ('importlib',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\importlib\\__init__.py',
+   'PYMODULE'),
+  ('importlib._bootstrap',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\importlib\\_bootstrap.py',
+   'PYMODULE'),
+  ('importlib._bootstrap_external',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\importlib\\_bootstrap_external.py',
+   'PYMODULE'),
+  ('importlib.metadata',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\importlib\\metadata.py',
+   'PYMODULE'),
+  ('importlib.abc',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\importlib\\abc.py',
+   'PYMODULE'),
+  ('contextlib',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\contextlib.py',
+   'PYMODULE'),
+  ('configparser',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\configparser.py',
+   'PYMODULE'),
+  ('pathlib',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\pathlib.py',
+   'PYMODULE'),
+  ('urllib.parse',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\urllib\\parse.py',
+   'PYMODULE'),
+  ('urllib',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\urllib\\__init__.py',
+   'PYMODULE'),
+  ('email',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\email\\__init__.py',
+   'PYMODULE'),
+  ('email.parser',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\email\\parser.py',
+   'PYMODULE'),
+  ('email._policybase',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\email\\_policybase.py',
+   'PYMODULE'),
+  ('email.utils',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\email\\utils.py',
+   'PYMODULE'),
+  ('email._parseaddr',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\email\\_parseaddr.py',
+   'PYMODULE'),
+  ('random',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\random.py',
+   'PYMODULE'),
+  ('hashlib',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\hashlib.py',
+   'PYMODULE'),
+  ('bisect',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\bisect.py',
+   'PYMODULE'),
+  ('email.feedparser',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\email\\feedparser.py',
+   'PYMODULE'),
+  ('email.message',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\email\\message.py',
+   'PYMODULE'),
+  ('email.policy',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\email\\policy.py',
+   'PYMODULE'),
+  ('email.contentmanager',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\email\\contentmanager.py',
+   'PYMODULE'),
+  ('email.quoprimime',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\email\\quoprimime.py',
+   'PYMODULE'),
+  ('email.headerregistry',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\email\\headerregistry.py',
+   'PYMODULE'),
+  ('email.iterators',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\email\\iterators.py',
+   'PYMODULE'),
+  ('email.generator',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\email\\generator.py',
+   'PYMODULE'),
+  ('email._encoded_words',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\email\\_encoded_words.py',
+   'PYMODULE'),
+  ('quopri',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\quopri.py',
+   'PYMODULE'),
+  ('getopt',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\getopt.py',
+   'PYMODULE'),
+  ('uu',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\uu.py',
+   'PYMODULE'),
+  ('optparse',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\optparse.py',
+   'PYMODULE'),
+  ('email._header_value_parser',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\email\\_header_value_parser.py',
+   'PYMODULE'),
+  ('email.header',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\email\\header.py',
+   'PYMODULE'),
+  ('email.base64mime',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\email\\base64mime.py',
+   'PYMODULE'),
+  ('email.charset',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\email\\charset.py',
+   'PYMODULE'),
+  ('email.encoders',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\email\\encoders.py',
+   'PYMODULE'),
+  ('email.errors',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\email\\errors.py',
+   'PYMODULE'),
+  ('csv',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\csv.py',
+   'PYMODULE'),
+  ('tokenize',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\tokenize.py',
+   'PYMODULE'),
+  ('token',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\token.py',
+   'PYMODULE'),
+  ('posixpath',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\posixpath.py',
+   'PYMODULE'),
+  ('importlib.util',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\importlib\\util.py',
+   'PYMODULE'),
+  ('tarfile',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\tarfile.py',
+   'PYMODULE'),
+  ('gzip',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\gzip.py',
+   'PYMODULE'),
+  ('_compression',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\_compression.py',
+   'PYMODULE'),
+  ('lzma',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\lzma.py',
+   'PYMODULE'),
+  ('bz2',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\bz2.py',
+   'PYMODULE'),
+  ('fnmatch',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\fnmatch.py',
+   'PYMODULE'),
+  ('stat',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\stat.py',
+   'PYMODULE'),
+  ('base64',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\base64.py',
+   'PYMODULE'),
+  ('socket',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\socket.py',
+   'PYMODULE'),
+  ('selectors',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\selectors.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_fork',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\multiprocessing\\popen_fork.py',
+   'PYMODULE'),
+  ('multiprocessing.connection',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\multiprocessing\\connection.py',
+   'PYMODULE'),
+  ('multiprocessing.resource_sharer',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\multiprocessing\\resource_sharer.py',
+   'PYMODULE'),
+  ('multiprocessing.process',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\multiprocessing\\process.py',
+   'PYMODULE'),
+  ('xmlrpc.client',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\xmlrpc\\client.py',
+   'PYMODULE'),
+  ('xmlrpc',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\xmlrpc\\__init__.py',
+   'PYMODULE'),
+  ('xml.parsers.expat',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\xml\\parsers\\expat.py',
+   'PYMODULE'),
+  ('xml.parsers',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\xml\\parsers\\__init__.py',
+   'PYMODULE'),
+  ('xml',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\xml\\__init__.py',
+   'PYMODULE'),
+  ('xml.sax.expatreader',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\xml\\sax\\expatreader.py',
+   'PYMODULE'),
+  ('xml.sax.saxutils',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\xml\\sax\\saxutils.py',
+   'PYMODULE'),
+  ('urllib.request',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\urllib\\request.py',
+   'PYMODULE'),
+  ('getpass',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\getpass.py',
+   'PYMODULE'),
+  ('nturl2path',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\nturl2path.py',
+   'PYMODULE'),
+  ('ftplib',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\ftplib.py',
+   'PYMODULE'),
+  ('netrc',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\netrc.py',
+   'PYMODULE'),
+  ('shlex',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\shlex.py',
+   'PYMODULE'),
+  ('mimetypes',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\mimetypes.py',
+   'PYMODULE'),
+  ('http.cookiejar',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\http\\cookiejar.py',
+   'PYMODULE'),
+  ('http',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\http\\__init__.py',
+   'PYMODULE'),
+  ('urllib.response',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\urllib\\response.py',
+   'PYMODULE'),
+  ('urllib.error',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\urllib\\error.py',
+   'PYMODULE'),
+  ('xml.sax',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\xml\\sax\\__init__.py',
+   'PYMODULE'),
+  ('xml.sax.handler',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\xml\\sax\\handler.py',
+   'PYMODULE'),
+  ('xml.sax._exceptions',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\xml\\sax\\_exceptions.py',
+   'PYMODULE'),
+  ('xml.sax.xmlreader',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\xml\\sax\\xmlreader.py',
+   'PYMODULE'),
+  ('http.client',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\http\\client.py',
+   'PYMODULE'),
+  ('decimal',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\decimal.py',
+   'PYMODULE'),
+  ('_pydecimal',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\_pydecimal.py',
+   'PYMODULE'),
+  ('contextvars',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\contextvars.py',
+   'PYMODULE'),
+  ('numbers',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\numbers.py',
+   'PYMODULE'),
+  ('hmac',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\hmac.py',
+   'PYMODULE'),
+  ('multiprocessing.context',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\multiprocessing\\context.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_forkserver',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\multiprocessing\\popen_forkserver.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_spawn_posix',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\multiprocessing\\popen_spawn_posix.py',
+   'PYMODULE'),
+  ('multiprocessing.resource_tracker',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\multiprocessing\\resource_tracker.py',
+   'PYMODULE'),
+  ('multiprocessing.forkserver',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\multiprocessing\\forkserver.py',
+   'PYMODULE'),
+  ('multiprocessing.sharedctypes',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\multiprocessing\\sharedctypes.py',
+   'PYMODULE'),
+  ('multiprocessing.heap',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\multiprocessing\\heap.py',
+   'PYMODULE'),
+  ('ctypes',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\ctypes\\__init__.py',
+   'PYMODULE'),
+  ('ctypes._endian',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\ctypes\\_endian.py',
+   'PYMODULE'),
+  ('multiprocessing.pool',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\multiprocessing\\pool.py',
+   'PYMODULE'),
+  ('multiprocessing.dummy',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\multiprocessing\\dummy\\__init__.py',
+   'PYMODULE'),
+  ('multiprocessing.dummy.connection',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\multiprocessing\\dummy\\connection.py',
+   'PYMODULE'),
+  ('queue',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\queue.py',
+   'PYMODULE'),
+  ('multiprocessing.queues',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\multiprocessing\\queues.py',
+   'PYMODULE'),
+  ('multiprocessing.synchronize',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\multiprocessing\\synchronize.py',
+   'PYMODULE'),
+  ('multiprocessing.managers',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\multiprocessing\\managers.py',
+   'PYMODULE'),
+  ('multiprocessing.shared_memory',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\multiprocessing\\shared_memory.py',
+   'PYMODULE'),
+  ('secrets',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\secrets.py',
+   'PYMODULE'),
+  ('multiprocessing.reduction',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\multiprocessing\\reduction.py',
+   'PYMODULE'),
+  ('pickle',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\pickle.py',
+   'PYMODULE'),
+  ('pprint',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\pprint.py',
+   'PYMODULE'),
+  ('doctest',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\doctest.py',
+   'PYMODULE'),
+  ('unittest',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\unittest\\__init__.py',
+   'PYMODULE'),
+  ('unittest.signals',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\unittest\\signals.py',
+   'PYMODULE'),
+  ('unittest.main',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\unittest\\main.py',
+   'PYMODULE'),
+  ('unittest.runner',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\unittest\\runner.py',
+   'PYMODULE'),
+  ('unittest.loader',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\unittest\\loader.py',
+   'PYMODULE'),
+  ('unittest.suite',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\unittest\\suite.py',
+   'PYMODULE'),
+  ('unittest.case',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\unittest\\case.py',
+   'PYMODULE'),
+  ('unittest.async_case',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\unittest\\async_case.py',
+   'PYMODULE'),
+  ('asyncio',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\asyncio\\__init__.py',
+   'PYMODULE'),
+  ('asyncio.unix_events',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\asyncio\\unix_events.py',
+   'PYMODULE'),
+  ('asyncio.log',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\asyncio\\log.py',
+   'PYMODULE'),
+  ('asyncio.windows_events',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\asyncio\\windows_events.py',
+   'PYMODULE'),
+  ('asyncio.windows_utils',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\asyncio\\windows_utils.py',
+   'PYMODULE'),
+  ('asyncio.selector_events',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\asyncio\\selector_events.py',
+   'PYMODULE'),
+  ('asyncio.proactor_events',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\asyncio\\proactor_events.py',
+   'PYMODULE'),
+  ('asyncio.base_subprocess',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\asyncio\\base_subprocess.py',
+   'PYMODULE'),
+  ('asyncio.subprocess',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\asyncio\\subprocess.py',
+   'PYMODULE'),
+  ('asyncio.streams',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\asyncio\\streams.py',
+   'PYMODULE'),
+  ('asyncio.queues',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\asyncio\\queues.py',
+   'PYMODULE'),
+  ('asyncio.runners',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\asyncio\\runners.py',
+   'PYMODULE'),
+  ('asyncio.events',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\asyncio\\events.py',
+   'PYMODULE'),
+  ('asyncio.trsock',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\asyncio\\trsock.py',
+   'PYMODULE'),
+  ('asyncio.staggered',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\asyncio\\staggered.py',
+   'PYMODULE'),
+  ('typing',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\typing.py',
+   'PYMODULE'),
+  ('asyncio.tasks',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\asyncio\\tasks.py',
+   'PYMODULE'),
+  ('concurrent.futures',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\concurrent\\futures\\__init__.py',
+   'PYMODULE'),
+  ('concurrent.futures.thread',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\concurrent\\futures\\thread.py',
+   'PYMODULE'),
+  ('concurrent.futures.process',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\concurrent\\futures\\process.py',
+   'PYMODULE'),
+  ('concurrent.futures._base',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\concurrent\\futures\\_base.py',
+   'PYMODULE'),
+  ('concurrent',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\concurrent\\__init__.py',
+   'PYMODULE'),
+  ('asyncio.base_tasks',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\asyncio\\base_tasks.py',
+   'PYMODULE'),
+  ('asyncio.locks',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\asyncio\\locks.py',
+   'PYMODULE'),
+  ('asyncio.sslproto',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\asyncio\\sslproto.py',
+   'PYMODULE'),
+  ('asyncio.transports',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\asyncio\\transports.py',
+   'PYMODULE'),
+  ('asyncio.base_events',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\asyncio\\base_events.py',
+   'PYMODULE'),
+  ('asyncio.protocols',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\asyncio\\protocols.py',
+   'PYMODULE'),
+  ('asyncio.futures',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\asyncio\\futures.py',
+   'PYMODULE'),
+  ('asyncio.coroutines',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\asyncio\\coroutines.py',
+   'PYMODULE'),
+  ('asyncio.base_futures',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\asyncio\\base_futures.py',
+   'PYMODULE'),
+  ('asyncio.exceptions',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\asyncio\\exceptions.py',
+   'PYMODULE'),
+  ('asyncio.format_helpers',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\asyncio\\format_helpers.py',
+   'PYMODULE'),
+  ('asyncio.constants',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\asyncio\\constants.py',
+   'PYMODULE'),
+  ('unittest.result',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\unittest\\result.py',
+   'PYMODULE'),
+  ('unittest.util',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\unittest\\util.py',
+   'PYMODULE'),
+  ('pdb',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\pdb.py',
+   'PYMODULE'),
+  ('pydoc',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\pydoc.py',
+   'PYMODULE'),
+  ('webbrowser',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\webbrowser.py',
+   'PYMODULE'),
+  ('http.server',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\http\\server.py',
+   'PYMODULE'),
+  ('socketserver',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\socketserver.py',
+   'PYMODULE'),
+  ('html',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\html\\__init__.py',
+   'PYMODULE'),
+  ('html.entities',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\html\\entities.py',
+   'PYMODULE'),
+  ('pydoc_data.topics',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\pydoc_data\\topics.py',
+   'PYMODULE'),
+  ('pydoc_data',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\pydoc_data\\__init__.py',
+   'PYMODULE'),
+  ('tty',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\tty.py',
+   'PYMODULE'),
+  ('platform',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\platform.py',
+   'PYMODULE'),
+  ('plistlib',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\plistlib.py',
+   'PYMODULE'),
+  ('pkgutil',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\pkgutil.py',
+   'PYMODULE'),
+  ('zipimport',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\zipimport.py',
+   'PYMODULE'),
+  ('runpy',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\runpy.py',
+   'PYMODULE'),
+  ('glob',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\glob.py',
+   'PYMODULE'),
+  ('code',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\code.py',
+   'PYMODULE'),
+  ('codeop',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\codeop.py',
+   'PYMODULE'),
+  ('dis',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\dis.py',
+   'PYMODULE'),
+  ('opcode',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\opcode.py',
+   'PYMODULE'),
+  ('bdb',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\bdb.py',
+   'PYMODULE'),
+  ('cmd',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\cmd.py',
+   'PYMODULE'),
+  ('inspect',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\inspect.py',
+   'PYMODULE'),
+  ('ast',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\ast.py',
+   'PYMODULE'),
+  ('difflib',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\difflib.py',
+   'PYMODULE'),
+  ('__future__',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\__future__.py',
+   'PYMODULE'),
+  ('_compat_pickle',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\_compat_pickle.py',
+   'PYMODULE'),
+  ('tempfile',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\tempfile.py',
+   'PYMODULE'),
+  ('multiprocessing.util',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\multiprocessing\\util.py',
+   'PYMODULE'),
+  ('test.support',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\test\\support\\__init__.py',
+   'PYMODULE'),
+  ('distutils.spawn',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\distutils\\spawn.py',
+   'PYMODULE'),
+  ('distutils.log',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\distutils\\log.py',
+   'PYMODULE'),
+  ('distutils.debug',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\distutils\\debug.py',
+   'PYMODULE'),
+  ('distutils.errors',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\distutils\\errors.py',
+   'PYMODULE'),
+  ('distutils.sysconfig',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\distutils\\sysconfig.py',
+   'PYMODULE'),
+  ('distutils.text_file',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\distutils\\text_file.py',
+   'PYMODULE'),
+  ('_osx_support',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\_osx_support.py',
+   'PYMODULE'),
+  ('distutils.util',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\distutils\\util.py',
+   'PYMODULE'),
+  ('distutils.filelist',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\distutils\\filelist.py',
+   'PYMODULE'),
+  ('distutils.file_util',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\distutils\\file_util.py',
+   'PYMODULE'),
+  ('distutils.dir_util',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\distutils\\dir_util.py',
+   'PYMODULE'),
+  ('lib2to3.refactor',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\lib2to3\\refactor.py',
+   'PYMODULE'),
+  ('lib2to3.btm_matcher',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\lib2to3\\btm_matcher.py',
+   'PYMODULE'),
+  ('lib2to3.btm_utils',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\lib2to3\\btm_utils.py',
+   'PYMODULE'),
+  ('lib2to3.pgen2.grammar',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\lib2to3\\pgen2\\grammar.py',
+   'PYMODULE'),
+  ('lib2to3.pygram',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\lib2to3\\pygram.py',
+   'PYMODULE'),
+  ('lib2to3.pytree',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\lib2to3\\pytree.py',
+   'PYMODULE'),
+  ('lib2to3',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\lib2to3\\__init__.py',
+   'PYMODULE'),
+  ('lib2to3.patcomp',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\lib2to3\\patcomp.py',
+   'PYMODULE'),
+  ('lib2to3.pgen2.parse',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\lib2to3\\pgen2\\parse.py',
+   'PYMODULE'),
+  ('lib2to3.pgen2.literals',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\lib2to3\\pgen2\\literals.py',
+   'PYMODULE'),
+  ('lib2to3.fixer_util',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\lib2to3\\fixer_util.py',
+   'PYMODULE'),
+  ('lib2to3.pgen2.token',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\lib2to3\\pgen2\\token.py',
+   'PYMODULE'),
+  ('lib2to3.pgen2.tokenize',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\lib2to3\\pgen2\\tokenize.py',
+   'PYMODULE'),
+  ('lib2to3.pgen2.driver',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\lib2to3\\pgen2\\driver.py',
+   'PYMODULE'),
+  ('lib2to3.pgen2.pgen',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\lib2to3\\pgen2\\pgen.py',
+   'PYMODULE'),
+  ('lib2to3.pgen2',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\lib2to3\\pgen2\\__init__.py',
+   'PYMODULE'),
+  ('distutils.dep_util',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\distutils\\dep_util.py',
+   'PYMODULE'),
+  ('distutils.ccompiler',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\distutils\\ccompiler.py',
+   'PYMODULE'),
+  ('distutils.fancy_getopt',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\distutils\\fancy_getopt.py',
+   'PYMODULE'),
+  ('distutils',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\distutils\\__init__.py',
+   'PYMODULE'),
+  ('tracemalloc',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\tracemalloc.py',
+   'PYMODULE'),
+  ('tkinter',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\tkinter\\__init__.py',
+   'PYMODULE'),
+  ('tkinter.constants',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\tkinter\\constants.py',
+   'PYMODULE'),
+  ('ctypes.util',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\ctypes\\util.py',
+   'PYMODULE'),
+  ('ctypes._aix',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\ctypes\\_aix.py',
+   'PYMODULE'),
+  ('ctypes.macholib.dyld',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\ctypes\\macholib\\dyld.py',
+   'PYMODULE'),
+  ('ctypes.macholib',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\ctypes\\macholib\\__init__.py',
+   'PYMODULE'),
+  ('ctypes.macholib.dylib',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\ctypes\\macholib\\dylib.py',
+   'PYMODULE'),
+  ('ctypes.macholib.framework',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\ctypes\\macholib\\framework.py',
+   'PYMODULE'),
+  ('ctypes.wintypes',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\ctypes\\wintypes.py',
+   'PYMODULE'),
+  ('test.support.testresult',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\test\\support\\testresult.py',
+   'PYMODULE'),
+  ('xml.etree.ElementTree',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\xml\\etree\\ElementTree.py',
+   'PYMODULE'),
+  ('xml.etree.cElementTree',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\xml\\etree\\cElementTree.py',
+   'PYMODULE'),
+  ('xml.etree.ElementInclude',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\xml\\etree\\ElementInclude.py',
+   'PYMODULE'),
+  ('xml.etree.ElementPath',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\xml\\etree\\ElementPath.py',
+   'PYMODULE'),
+  ('xml.etree',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\xml\\etree\\__init__.py',
+   'PYMODULE'),
+  ('sysconfig',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\sysconfig.py',
+   'PYMODULE'),
+  ('nntplib',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\nntplib.py',
+   'PYMODULE'),
+  ('logging.handlers',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\logging\\handlers.py',
+   'PYMODULE'),
+  ('smtplib',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\smtplib.py',
+   'PYMODULE'),
+  ('test',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\test\\__init__.py',
+   'PYMODULE'),
+  ('signal',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\signal.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_spawn_win32',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\multiprocessing\\popen_spawn_win32.py',
+   'PYMODULE'),
+  ('subprocess',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\subprocess.py',
+   'PYMODULE'),
+  ('multiprocessing.spawn',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\multiprocessing\\spawn.py',
+   'PYMODULE'),
+  ('multiprocessing',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\multiprocessing\\__init__.py',
+   'PYMODULE'),
+  ('_py_abc',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\_py_abc.py',
+   'PYMODULE'),
+  ('stringprep',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\stringprep.py',
+   'PYMODULE'),
+  ('os',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\os.py',
+   'PYMODULE'),
+  ('websocket',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\websocket\\__init__.py',
+   'PYMODULE'),
+  ('websocket._socket',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\websocket\\_socket.py',
+   'PYMODULE'),
+  ('websocket._utils',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\websocket\\_utils.py',
+   'PYMODULE'),
+  ('websocket._ssl_compat',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\websocket\\_ssl_compat.py',
+   'PYMODULE'),
+  ('six',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\six.py',
+   'PYMODULE'),
+  ('websocket._logging',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\websocket\\_logging.py',
+   'PYMODULE'),
+  ('websocket._exceptions',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\websocket\\_exceptions.py',
+   'PYMODULE'),
+  ('websocket._core',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\websocket\\_core.py',
+   'PYMODULE'),
+  ('websocket._http',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\websocket\\_http.py',
+   'PYMODULE'),
+  ('websocket._url',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\websocket\\_url.py',
+   'PYMODULE'),
+  ('websocket._handshake',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\websocket\\_handshake.py',
+   'PYMODULE'),
+  ('websocket._cookiejar',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\websocket\\_cookiejar.py',
+   'PYMODULE'),
+  ('http.cookies',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\http\\cookies.py',
+   'PYMODULE'),
+  ('websocket._app',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\websocket\\_app.py',
+   'PYMODULE'),
+  ('websocket._abnf',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\websocket\\_abnf.py',
+   'PYMODULE'),
+  ('threading',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\threading.py',
+   'PYMODULE'),
+  ('_threading_local',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\_threading_local.py',
+   'PYMODULE'),
+  ('datetime',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\datetime.py',
+   'PYMODULE'),
+  ('_strptime',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\_strptime.py',
+   'PYMODULE'),
+  ('userdata',
+   'C:\\Users\\Juan Pablo\\Documents\\GitHub\\REGEX-BOT-v1\\userdata.py',
+   'PYMODULE'),
+  ('logging',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\logging\\__init__.py',
+   'PYMODULE'),
+  ('iqoptionapi.stable_api',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\iqoptionapi\\stable_api.py',
+   'PYMODULE'),
+  ('iqoptionapi',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\iqoptionapi\\__init__.py',
+   'PYMODULE'),
+  ('iqoptionapi.expiration',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\iqoptionapi\\expiration.py',
+   'PYMODULE'),
+  ('iqoptionapi.global_value',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\iqoptionapi\\global_value.py',
+   'PYMODULE'),
+  ('iqoptionapi.country_id',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\iqoptionapi\\country_id.py',
+   'PYMODULE'),
+  ('iqoptionapi.constants',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\iqoptionapi\\constants.py',
+   'PYMODULE'),
+  ('iqoptionapi.api',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\iqoptionapi\\api.py',
+   'PYMODULE'),
+  ('iqoptionapi.ws.objects.betinfo',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\iqoptionapi\\ws\\objects\\betinfo.py',
+   'PYMODULE'),
+  ('iqoptionapi.ws.objects',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\iqoptionapi\\ws\\objects\\__init__.py',
+   'PYMODULE'),
+  ('iqoptionapi.ws',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\iqoptionapi\\ws\\__init__.py',
+   'PYMODULE'),
+  ('iqoptionapi.ws.objects.base',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\iqoptionapi\\ws\\objects\\base.py',
+   'PYMODULE'),
+  ('iqoptionapi.ws.objects.listinfodata',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\iqoptionapi\\ws\\objects\\listinfodata.py',
+   'PYMODULE'),
+  ('iqoptionapi.ws.objects.candles',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\iqoptionapi\\ws\\objects\\candles.py',
+   'PYMODULE'),
+  ('iqoptionapi.ws.objects.profile',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\iqoptionapi\\ws\\objects\\profile.py',
+   'PYMODULE'),
+  ('iqoptionapi.ws.objects.timesync',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\iqoptionapi\\ws\\objects\\timesync.py',
+   'PYMODULE'),
+  ('iqoptionapi.ws.chanels.change_auto_margin_call',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\iqoptionapi\\ws\\chanels\\change_auto_margin_call.py',
+   'PYMODULE'),
+  ('iqoptionapi.ws.chanels',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\iqoptionapi\\ws\\chanels\\__init__.py',
+   'PYMODULE'),
+  ('iqoptionapi.ws.chanels.base',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\iqoptionapi\\ws\\chanels\\base.py',
+   'PYMODULE'),
+  ('iqoptionapi.ws.chanels.change_tpsl',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\iqoptionapi\\ws\\chanels\\change_tpsl.py',
+   'PYMODULE'),
+  ('iqoptionapi.ws.chanels.sell_digital_option',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\iqoptionapi\\ws\\chanels\\sell_digital_option.py',
+   'PYMODULE'),
+  ('iqoptionapi.ws.chanels.sell_option',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\iqoptionapi\\ws\\chanels\\sell_option.py',
+   'PYMODULE'),
+  ('iqoptionapi.ws.chanels.api_game_getoptions',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\iqoptionapi\\ws\\chanels\\api_game_getoptions.py',
+   'PYMODULE'),
+  ('iqoptionapi.ws.chanels.digital_option',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\iqoptionapi\\ws\\chanels\\digital_option.py',
+   'PYMODULE'),
+  ('iqoptionapi.ws.chanels.heartbeat',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\iqoptionapi\\ws\\chanels\\heartbeat.py',
+   'PYMODULE'),
+  ('iqoptionapi.ws.chanels.get_overnight_fee',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\iqoptionapi\\ws\\chanels\\get_overnight_fee.py',
+   'PYMODULE'),
+  ('iqoptionapi.ws.chanels.close_position',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\iqoptionapi\\ws\\chanels\\close_position.py',
+   'PYMODULE'),
+  ('iqoptionapi.ws.chanels.cancel_order',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\iqoptionapi\\ws\\chanels\\cancel_order.py',
+   'PYMODULE'),
+  ('iqoptionapi.ws.chanels.get_available_leverages',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\iqoptionapi\\ws\\chanels\\get_available_leverages.py',
+   'PYMODULE'),
+  ('iqoptionapi.ws.chanels.get_positions',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\iqoptionapi\\ws\\chanels\\get_positions.py',
+   'PYMODULE'),
+  ('iqoptionapi.ws.chanels.get_deferred_orders',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\iqoptionapi\\ws\\chanels\\get_deferred_orders.py',
+   'PYMODULE'),
+  ('iqoptionapi.ws.chanels.get_order',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\iqoptionapi\\ws\\chanels\\get_order.py',
+   'PYMODULE'),
+  ('iqoptionapi.ws.chanels.buy_place_order_temp',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\iqoptionapi\\ws\\chanels\\buy_place_order_temp.py',
+   'PYMODULE'),
+  ('iqoptionapi.ws.chanels.technical_indicators',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\iqoptionapi\\ws\\chanels\\technical_indicators.py',
+   'PYMODULE'),
+  ('iqoptionapi.ws.chanels.traders_mood',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\iqoptionapi\\ws\\chanels\\traders_mood.py',
+   'PYMODULE'),
+  ('iqoptionapi.ws.chanels.leaderboard',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\iqoptionapi\\ws\\chanels\\leaderboard.py',
+   'PYMODULE'),
+  ('iqoptionapi.ws.chanels.strike_list',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\iqoptionapi\\ws\\chanels\\strike_list.py',
+   'PYMODULE'),
+  ('iqoptionapi.ws.chanels.get_financial_information',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\iqoptionapi\\ws\\chanels\\get_financial_information.py',
+   'PYMODULE'),
+  ('iqoptionapi.ws.chanels.instruments',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\iqoptionapi\\ws\\chanels\\instruments.py',
+   'PYMODULE'),
+  ('iqoptionapi.ws.chanels.api_game_betinfo',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\iqoptionapi\\ws\\chanels\\api_game_betinfo.py',
+   'PYMODULE'),
+  ('iqoptionapi.ws.chanels.user',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\iqoptionapi\\ws\\chanels\\user.py',
+   'PYMODULE'),
+  ('iqoptionapi.ws.chanels.buyv3',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\iqoptionapi\\ws\\chanels\\buyv3.py',
+   'PYMODULE'),
+  ('iqoptionapi.ws.chanels.buyv2',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\iqoptionapi\\ws\\chanels\\buyv2.py',
+   'PYMODULE'),
+  ('iqoptionapi.ws.chanels.candles',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\iqoptionapi\\ws\\chanels\\candles.py',
+   'PYMODULE'),
+  ('iqoptionapi.ws.chanels.setactives',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\iqoptionapi\\ws\\chanels\\setactives.py',
+   'PYMODULE'),
+  ('iqoptionapi.ws.chanels.unsubscribe',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\iqoptionapi\\ws\\chanels\\unsubscribe.py',
+   'PYMODULE'),
+  ('iqoptionapi.ws.chanels.subscribe',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\iqoptionapi\\ws\\chanels\\subscribe.py',
+   'PYMODULE'),
+  ('iqoptionapi.ws.chanels.ssid',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\iqoptionapi\\ws\\chanels\\ssid.py',
+   'PYMODULE'),
+  ('iqoptionapi.ws.chanels.get_balances',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\iqoptionapi\\ws\\chanels\\get_balances.py',
+   'PYMODULE'),
+  ('iqoptionapi.ws.client',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\iqoptionapi\\ws\\client.py',
+   'PYMODULE'),
+  ('iqoptionapi.http.events',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\iqoptionapi\\http\\events.py',
+   'PYMODULE'),
+  ('iqoptionapi.http',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\iqoptionapi\\http\\__init__.py',
+   'PYMODULE'),
+  ('iqoptionapi.http.resource',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\iqoptionapi\\http\\resource.py',
+   'PYMODULE'),
+  ('iqoptionapi.http.changebalance',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\iqoptionapi\\http\\changebalance.py',
+   'PYMODULE'),
+  ('iqoptionapi.http.profile',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\iqoptionapi\\http\\profile.py',
+   'PYMODULE'),
+  ('iqoptionapi.http.buyback',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\iqoptionapi\\http\\buyback.py',
+   'PYMODULE'),
+  ('iqoptionapi.http.billing',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\iqoptionapi\\http\\billing.py',
+   'PYMODULE'),
+  ('iqoptionapi.http.appinit',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\iqoptionapi\\http\\appinit.py',
+   'PYMODULE'),
+  ('iqoptionapi.http.token',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\iqoptionapi\\http\\token.py',
+   'PYMODULE'),
+  ('iqoptionapi.http.auth',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\iqoptionapi\\http\\auth.py',
+   'PYMODULE'),
+  ('iqoptionapi.http.getprofile',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\iqoptionapi\\http\\getprofile.py',
+   'PYMODULE'),
+  ('iqoptionapi.http.logout',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\iqoptionapi\\http\\logout.py',
+   'PYMODULE'),
+  ('iqoptionapi.http.loginv2',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\iqoptionapi\\http\\loginv2.py',
+   'PYMODULE'),
+  ('iqoptionapi.http.login',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\iqoptionapi\\http\\login.py',
+   'PYMODULE'),
+  ('requests',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\requests\\__init__.py',
+   'PYMODULE'),
+  ('requests.status_codes',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\requests\\status_codes.py',
+   'PYMODULE'),
+  ('requests.structures',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\requests\\structures.py',
+   'PYMODULE'),
+  ('requests.compat',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\requests\\compat.py',
+   'PYMODULE'),
+  ('requests.api',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\requests\\api.py',
+   'PYMODULE'),
+  ('requests.sessions',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\requests\\sessions.py',
+   'PYMODULE'),
+  ('requests.adapters',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\requests\\adapters.py',
+   'PYMODULE'),
+  ('urllib3.contrib.socks',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\urllib3\\contrib\\socks.py',
+   'PYMODULE'),
+  ('urllib3.util.url',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\urllib3\\util\\url.py',
+   'PYMODULE'),
+  ('idna',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\idna\\__init__.py',
+   'PYMODULE'),
+  ('idna.core',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\idna\\core.py',
+   'PYMODULE'),
+  ('idna.uts46data',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\idna\\uts46data.py',
+   'PYMODULE'),
+  ('idna.intranges',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\idna\\intranges.py',
+   'PYMODULE'),
+  ('idna.idnadata',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\idna\\idnadata.py',
+   'PYMODULE'),
+  ('idna.package_data',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\idna\\package_data.py',
+   'PYMODULE'),
+  ('urllib3.packages.six',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\urllib3\\packages\\six.py',
+   'PYMODULE'),
+  ('urllib3.packages',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\urllib3\\packages\\__init__.py',
+   'PYMODULE'),
+  ('urllib3.packages.ssl_match_hostname',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\urllib3\\packages\\ssl_match_hostname\\__init__.py',
+   'PYMODULE'),
+  ('urllib3.packages.ssl_match_hostname._implementation',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\urllib3\\packages\\ssl_match_hostname\\_implementation.py',
+   'PYMODULE'),
+  ('ipaddress',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\ipaddress.py',
+   'PYMODULE'),
+  ('urllib3.connectionpool',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\urllib3\\connectionpool.py',
+   'PYMODULE'),
+  ('urllib3.util.queue',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\urllib3\\util\\queue.py',
+   'PYMODULE'),
+  ('urllib3.util.timeout',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\urllib3\\util\\timeout.py',
+   'PYMODULE'),
+  ('urllib3.util.response',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\urllib3\\util\\response.py',
+   'PYMODULE'),
+  ('urllib3.util.request',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\urllib3\\util\\request.py',
+   'PYMODULE'),
+  ('urllib3.util.connection',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\urllib3\\util\\connection.py',
+   'PYMODULE'),
+  ('urllib3.contrib._appengine_environ',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\urllib3\\contrib\\_appengine_environ.py',
+   'PYMODULE'),
+  ('urllib3.util.wait',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\urllib3\\util\\wait.py',
+   'PYMODULE'),
+  ('urllib3.request',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\urllib3\\request.py',
+   'PYMODULE'),
+  ('urllib3.filepost',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\urllib3\\filepost.py',
+   'PYMODULE'),
+  ('urllib3.fields',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\urllib3\\fields.py',
+   'PYMODULE'),
+  ('urllib3.connection',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\urllib3\\connection.py',
+   'PYMODULE'),
+  ('urllib3._collections',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\urllib3\\_collections.py',
+   'PYMODULE'),
+  ('urllib3.util.ssl_',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\urllib3\\util\\ssl_.py',
+   'PYMODULE'),
+  ('urllib3.util.retry',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\urllib3\\util\\retry.py',
+   'PYMODULE'),
+  ('urllib3.util',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\urllib3\\util\\__init__.py',
+   'PYMODULE'),
+  ('urllib3.response',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\urllib3\\response.py',
+   'PYMODULE'),
+  ('urllib3.poolmanager',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\urllib3\\poolmanager.py',
+   'PYMODULE'),
+  ('requests._internal_utils',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\requests\\_internal_utils.py',
+   'PYMODULE'),
+  ('requests.hooks',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\requests\\hooks.py',
+   'PYMODULE'),
+  ('requests.cookies',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\requests\\cookies.py',
+   'PYMODULE'),
+  ('dummy_threading',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\dummy_threading.py',
+   'PYMODULE'),
+  ('_dummy_thread',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\_dummy_thread.py',
+   'PYMODULE'),
+  ('requests.auth',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\requests\\auth.py',
+   'PYMODULE'),
+  ('requests.models',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\requests\\models.py',
+   'PYMODULE'),
+  ('requests.packages',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\requests\\packages.py',
+   'PYMODULE'),
+  ('requests.utils',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\requests\\utils.py',
+   'PYMODULE'),
+  ('requests.certs',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\requests\\certs.py',
+   'PYMODULE'),
+  ('certifi',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\certifi\\__init__.py',
+   'PYMODULE'),
+  ('certifi.core',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\certifi\\core.py',
+   'PYMODULE'),
+  ('importlib.resources',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\importlib\\resources.py',
+   'PYMODULE'),
+  ('requests.__version__',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\requests\\__version__.py',
+   'PYMODULE'),
+  ('urllib3.exceptions',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\urllib3\\exceptions.py',
+   'PYMODULE'),
+  ('urllib3.contrib.pyopenssl',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\urllib3\\contrib\\pyopenssl.py',
+   'PYMODULE'),
+  ('urllib3.packages.backports.makefile',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\urllib3\\packages\\backports\\makefile.py',
+   'PYMODULE'),
+  ('urllib3.packages.backports',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\urllib3\\packages\\backports\\__init__.py',
+   'PYMODULE'),
+  ('urllib3.contrib',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\urllib3\\contrib\\__init__.py',
+   'PYMODULE'),
+  ('requests.exceptions',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\requests\\exceptions.py',
+   'PYMODULE'),
+  ('chardet',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\chardet\\__init__.py',
+   'PYMODULE'),
+  ('chardet.version',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\chardet\\version.py',
+   'PYMODULE'),
+  ('chardet.universaldetector',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\chardet\\universaldetector.py',
+   'PYMODULE'),
+  ('chardet.sbcsgroupprober',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\chardet\\sbcsgroupprober.py',
+   'PYMODULE'),
+  ('chardet.langturkishmodel',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\chardet\\langturkishmodel.py',
+   'PYMODULE'),
+  ('chardet.hebrewprober',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\chardet\\hebrewprober.py',
+   'PYMODULE'),
+  ('chardet.charsetprober',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\chardet\\charsetprober.py',
+   'PYMODULE'),
+  ('chardet.langhebrewmodel',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\chardet\\langhebrewmodel.py',
+   'PYMODULE'),
+  ('chardet.langthaimodel',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\chardet\\langthaimodel.py',
+   'PYMODULE'),
+  ('chardet.langbulgarianmodel',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\chardet\\langbulgarianmodel.py',
+   'PYMODULE'),
+  ('chardet.langgreekmodel',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\chardet\\langgreekmodel.py',
+   'PYMODULE'),
+  ('chardet.langcyrillicmodel',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\chardet\\langcyrillicmodel.py',
+   'PYMODULE'),
+  ('chardet.sbcharsetprober',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\chardet\\sbcharsetprober.py',
+   'PYMODULE'),
+  ('chardet.mbcsgroupprober',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\chardet\\mbcsgroupprober.py',
+   'PYMODULE'),
+  ('chardet.euctwprober',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\chardet\\euctwprober.py',
+   'PYMODULE'),
+  ('chardet.mbcssm',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\chardet\\mbcssm.py',
+   'PYMODULE'),
+  ('chardet.chardistribution',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\chardet\\chardistribution.py',
+   'PYMODULE'),
+  ('chardet.jisfreq',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\chardet\\jisfreq.py',
+   'PYMODULE'),
+  ('chardet.big5freq',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\chardet\\big5freq.py',
+   'PYMODULE'),
+  ('chardet.gb2312freq',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\chardet\\gb2312freq.py',
+   'PYMODULE'),
+  ('chardet.euckrfreq',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\chardet\\euckrfreq.py',
+   'PYMODULE'),
+  ('chardet.euctwfreq',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\chardet\\euctwfreq.py',
+   'PYMODULE'),
+  ('chardet.codingstatemachine',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\chardet\\codingstatemachine.py',
+   'PYMODULE'),
+  ('chardet.mbcharsetprober',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\chardet\\mbcharsetprober.py',
+   'PYMODULE'),
+  ('chardet.big5prober',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\chardet\\big5prober.py',
+   'PYMODULE'),
+  ('chardet.cp949prober',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\chardet\\cp949prober.py',
+   'PYMODULE'),
+  ('chardet.euckrprober',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\chardet\\euckrprober.py',
+   'PYMODULE'),
+  ('chardet.gb2312prober',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\chardet\\gb2312prober.py',
+   'PYMODULE'),
+  ('chardet.eucjpprober',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\chardet\\eucjpprober.py',
+   'PYMODULE'),
+  ('chardet.jpcntx',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\chardet\\jpcntx.py',
+   'PYMODULE'),
+  ('chardet.sjisprober',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\chardet\\sjisprober.py',
+   'PYMODULE'),
+  ('chardet.utf8prober',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\chardet\\utf8prober.py',
+   'PYMODULE'),
+  ('chardet.latin1prober',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\chardet\\latin1prober.py',
+   'PYMODULE'),
+  ('chardet.escprober',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\chardet\\escprober.py',
+   'PYMODULE'),
+  ('chardet.escsm',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\chardet\\escsm.py',
+   'PYMODULE'),
+  ('chardet.enums',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\chardet\\enums.py',
+   'PYMODULE'),
+  ('chardet.charsetgroupprober',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\chardet\\charsetgroupprober.py',
+   'PYMODULE'),
+  ('chardet.compat',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\chardet\\compat.py',
+   'PYMODULE'),
+  ('urllib3',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\urllib3\\__init__.py',
+   'PYMODULE'),
+  ('json',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\json\\__init__.py',
+   'PYMODULE'),
+  ('json.encoder',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\json\\encoder.py',
+   'PYMODULE'),
+  ('json.decoder',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\json\\decoder.py',
+   'PYMODULE'),
+  ('json.scanner',
+   'c:\\users\\juan '
+   'pablo\\appdata\\local\\programs\\python\\python38\\lib\\json\\scanner.py',
+   'PYMODULE')])
